@@ -5,8 +5,12 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
-data/_uploaded_temp.db
 .streamlit/secrets.toml
+
+# Local datasets — run: python fetch_all_data.py
+data/*
+!data/.gitkeep
+!data/README.md
 
 # OS / IDE
 .DS_Store

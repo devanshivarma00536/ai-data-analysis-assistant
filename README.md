@@ -11,14 +11,14 @@ Natural-language data analysis app — ask questions in plain English, get chart
 - Auto **Plotly charts**
 - **PDF report** export
 - **Chat mode** for follow-up questions
-- 12 sample datasets included
+- Sample datasets via `fetch_all_data.py` (not stored in Git)
 
 ## Quick start
 
 ```bash
 pip install -r requirements.txt
 cp .env.example .env   # add your OPENROUTER_API_KEY
-python fetch_all_data.py   # optional: refresh sample data
+python fetch_all_data.py   # download sample datasets into data/
 streamlit run app.py
 ```
 
