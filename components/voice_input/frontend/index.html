@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 8px; }
+    button {
+      background: #ff4b4b; color: white; border: none; border-radius: 8px;
+      padding: 10px 18px; font-size: 15px; cursor: pointer; width: 100%;
+    }
+    button.listening { background: #0e8a43; animation: pulse 1s infinite; }
+    button:disabled { background: #ccc; cursor: not-allowed; }
+    #status { margin-top: 8px; font-size: 13px; color: #555; min-height: 18px; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.7} }
+  </style>
+</head>
+<body>
+  <button id="micBtn">Click to Speak</button>
+  <div id="status">Use Chrome or Edge. Click mic and ask your question.</div>
+
+  <!-- Required for all Streamlit custom components -->
+  <script src="./streamlit/component-lib/index.js"></script>
+  <script>
+    const btn = document.getElementById("micBtn");
+    const status = document.getElementById("status");
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+    function sendHeight() {
+      Streamlit.setFrameHeight(document.body.scrollHeight + 16);
+    }
+
+    Streamlit.events.addEventListener(Streamlit.RENDER_EVENT, () => {
+      Streamlit.setComponentReady();
+      sendHeight();
+    });
+
+    if (!SpeechRecognition) {
+      btn.disabled = true;
+      status.textContent = "Speech not supported. Use Chrome/Edge or Win+H typing.";
+      Streamlit.setComponentReady();
+      sendHeight();
+    } else {
+      let recognition = new SpeechRecognition();
+      recognition.continuous = false;
+      recognition.interimResults = false;
+      recognition.lang = "en-US";
+      let listening = false;
+
+      recognition.onstart = () => {
+        listening = true;
+        btn.classList.add("listening");
+        btn.textContent = "Listening... (click to stop)";
+        status.textContent = "Speak your question now...";
+        sendHeight();
+      };
+
+      recognition.onend = () => {
+        listening = false;
+        btn.classList.remove("listening");
+        btn.textContent = "Click to Speak";
+        sendHeight();
+      };
+
+      recognition.onresult = (event) => {
+        const transcript = event.results[0][0].transcript.trim();
+        status.textContent = "Heard: " + transcript;
+        Streamlit.setComponentValue(transcript);
+        sendHeight();
+      };
+
+      recognition.onerror = (event) => {
+        status.textContent = "Error: " + event.error;
+        sendHeight();
+      };
+
+      btn.onclick = () => {
+        if (listening) {
+          recognition.stop();
+        } else {
+          try {
+            recognition.start();
+          } catch (e) {
+            recognition.stop();
+            setTimeout(() => recognition.start(), 200);
+          }
+        }
+      };
+
+      Streamlit.setComponentReady();
+      sendHeight();
+    }
+  </script>
+</body>
+</html>

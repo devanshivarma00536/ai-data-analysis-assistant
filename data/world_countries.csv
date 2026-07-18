@@ -1,0 +1,250 @@
+country_code,country_name,capital,region,subregion,population,area_km2,currency
+AFG,Afghanistan,Kabul,Asia,Southern Asia,,,AFN
+ALA,Åland Islands,Mariehamn,Europe,Northern Europe,,,EUR
+ALB,Albania,Tirana,Europe,Southern Europe,,,ALL
+DZA,Algeria,Algiers,Africa,Northern Africa,,,DZD
+ASM,American Samoa,Pago Pago,Oceania,Polynesia,,,USD
+AND,Andorra,Andorra la Vella,Europe,Southern Europe,,,EUR
+AGO,Angola,Luanda,Africa,Sub-Saharan Africa,,,AOA
+AIA,Anguilla,The Valley,Americas,Latin America and the Caribbean,,,XCD
+ATA,Antarctica,,,,,,
+ATG,Antigua & Barbuda,St. John's,Americas,Latin America and the Caribbean,,,XCD
+ARG,Argentina,Buenos Aires,Americas,Latin America and the Caribbean,,,ARS
+ARM,Armenia,Yerevan,Asia,Western Asia,,,AMD
+ABW,Aruba,Oranjestad,Americas,Latin America and the Caribbean,,,AWG
+AUS,Australia,Canberra,Oceania,Australia and New Zealand,,,AUD
+AUT,Austria,Vienna,Europe,Western Europe,,,EUR
+AZE,Azerbaijan,Baku,Asia,Western Asia,,,AZN
+BHS,Bahamas,Nassau,Americas,Latin America and the Caribbean,,,BSD
+BHR,Bahrain,Manama,Asia,Western Asia,,,BHD
+BGD,Bangladesh,Dhaka,Asia,Southern Asia,,,BDT
+BRB,Barbados,Bridgetown,Americas,Latin America and the Caribbean,,,BBD
+BLR,Belarus,Minsk,Europe,Eastern Europe,,,BYN
+BEL,Belgium,Brussels,Europe,Western Europe,,,EUR
+BLZ,Belize,Belmopan,Americas,Latin America and the Caribbean,,,BZD
+BEN,Benin,Porto-Novo,Africa,Sub-Saharan Africa,,,XOF
+BMU,Bermuda,Hamilton,Americas,Northern America,,,BMD
+BTN,Bhutan,Thimphu,Asia,Southern Asia,,,"INR,BTN"
+BOL,Bolivia,Sucre,Americas,Latin America and the Caribbean,,,BOB
+BES,Caribbean Netherlands,,Americas,Latin America and the Caribbean,,,USD
+BIH,Bosnia,Sarajevo,Europe,Southern Europe,,,BAM
+BWA,Botswana,Gaborone,Africa,Sub-Saharan Africa,,,BWP
+BVT,Bouvet Island,,Americas,Latin America and the Caribbean,,,NOK
+BRA,Brazil,Brasilia,Americas,Latin America and the Caribbean,,,BRL
+IOT,British Indian Ocean Territory,Diego Garcia,Africa,Sub-Saharan Africa,,,USD
+VGB,British Virgin Islands,Road Town,Americas,Latin America and the Caribbean,,,USD
+BRN,Brunei,Bandar Seri Begawan,Asia,South-eastern Asia,,,BND
+BGR,Bulgaria,Sofia,Europe,Eastern Europe,,,EUR
+BFA,Burkina Faso,Ouagadougou,Africa,Sub-Saharan Africa,,,XOF
+BDI,Burundi,Gitega,Africa,Sub-Saharan Africa,,,BIF
+CPV,Cape Verde,Praia,Africa,Sub-Saharan Africa,,,CVE
+KHM,Cambodia,Phnom Penh,Asia,South-eastern Asia,,,KHR
+CMR,Cameroon,Yaounde,Africa,Sub-Saharan Africa,,,XAF
+CAN,Canada,Ottawa,Americas,Northern America,,,CAD
+CYM,Cayman Islands,George Town,Americas,Latin America and the Caribbean,,,KYD
+CAF,Central African Republic,Bangui,Africa,Sub-Saharan Africa,,,XAF
+TCD,Chad,N'Djamena,Africa,Sub-Saharan Africa,,,XAF
+CHL,Chile,Santiago,Americas,Latin America and the Caribbean,,,CLP
+CHN,China,Beijing,Asia,Eastern Asia,,,CNY
+HKG,Hong Kong,Hong Kong,Asia,Eastern Asia,,,HKD
+MAC,Macao,Macao,Asia,Eastern Asia,,,MOP
+CXR,Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,,,AUD
+CCK,Cocos Islands,West Island,Oceania,Australia and New Zealand,,,AUD
+COL,Colombia,Bogota,Americas,Latin America and the Caribbean,,,COP
+COM,Comoros,Moroni,Africa,Sub-Saharan Africa,,,KMF
+COG,Congo - Brazzaville,Brazzaville,Africa,Sub-Saharan Africa,,,XAF
+COK,Cook Islands,Avarua,Oceania,Polynesia,,,NZD
+CRI,Costa Rica,San Jose,Americas,Latin America and the Caribbean,,,CRC
+HRV,Croatia,Zagreb,Europe,Southern Europe,,,EUR
+CUB,Cuba,Havana,Americas,Latin America and the Caribbean,,,CUP
+CUW,Curaçao, Willemstad,Americas,Latin America and the Caribbean,,,XCG
+CYP,Cyprus,Nicosia,Asia,Western Asia,,,EUR
+CZE,Czechia,Prague,Europe,Eastern Europe,,,CZK
+PRK,North Korea,Pyongyang,Asia,Eastern Asia,,,KPW
+COD,Congo - Kinshasa,Kinshasa,Africa,Sub-Saharan Africa,,,CDF
+DNK,Denmark,Copenhagen,Europe,Northern Europe,,,DKK
+DJI,Djibouti,Djibouti,Africa,Sub-Saharan Africa,,,DJF
+DMA,Dominica,Roseau,Americas,Latin America and the Caribbean,,,XCD
+DOM,Dominican Republic,Santo Domingo,Americas,Latin America and the Caribbean,,,DOP
+ECU,Ecuador,Quito,Americas,Latin America and the Caribbean,,,USD
+EGY,Egypt,Cairo,Africa,Northern Africa,,,EGP
+SLV,El Salvador,San Salvador,Americas,Latin America and the Caribbean,,,"SVC,USD"
+GNQ,Equatorial Guinea,Ciudad de la Paz,Africa,Sub-Saharan Africa,,,XAF
+ERI,Eritrea,Asmara,Africa,Sub-Saharan Africa,,,ERN
+EST,Estonia,Tallinn,Europe,Northern Europe,,,EUR
+SWZ,Eswatini,Mbabane,Africa,Sub-Saharan Africa,,,SZL
+ETH,Ethiopia,Addis Ababa,Africa,Sub-Saharan Africa,,,ETB
+FLK,Falkland Islands,Stanley,Americas,Latin America and the Caribbean,,,FKP
+FRO,Faroe Islands,Torshavn,Europe,Northern Europe,,,DKK
+FJI,Fiji,Suva,Oceania,Melanesia,,,FJD
+FIN,Finland,Helsinki,Europe,Northern Europe,,,EUR
+FRA,France,Paris,Europe,Western Europe,,,EUR
+GUF,French Guiana,Cayenne,Americas,Latin America and the Caribbean,,,EUR
+PYF,French Polynesia,Papeete,Oceania,Polynesia,,,XPF
+ATF,French Southern Territories,Port-aux-Francais,Africa,Sub-Saharan Africa,,,EUR
+GAB,Gabon,Libreville,Africa,Sub-Saharan Africa,,,XAF
+GMB,Gambia,Banjul,Africa,Sub-Saharan Africa,,,GMD
+GEO,Georgia,Tbilisi,Asia,Western Asia,,,GEL
+DEU,Germany,Berlin,Europe,Western Europe,,,EUR
+GHA,Ghana,Accra,Africa,Sub-Saharan Africa,,,GHS
+GIB,Gibraltar,Gibraltar,Europe,Southern Europe,,,GIP
+GRC,Greece,Athens,Europe,Southern Europe,,,EUR
+GRL,Greenland,Nuuk,Americas,Northern America,,,DKK
+GRD,Grenada,St. George's,Americas,Latin America and the Caribbean,,,XCD
+GLP,Guadeloupe,Basse-Terre,Americas,Latin America and the Caribbean,,,EUR
+GUM,Guam,Hagatna,Oceania,Micronesia,,,USD
+GTM,Guatemala,Guatemala City,Americas,Latin America and the Caribbean,,,GTQ
+GGY,Guernsey,St Peter Port,Europe,Northern Europe,,,GBP
+GIN,Guinea,Conakry,Africa,Sub-Saharan Africa,,,GNF
+GNB,Guinea-Bissau,Bissau,Africa,Sub-Saharan Africa,,,XOF
+GUY,Guyana,Georgetown,Americas,Latin America and the Caribbean,,,GYD
+HTI,Haiti,Port-au-Prince,Americas,Latin America and the Caribbean,,,"HTG,USD"
+HMD,Heard & McDonald Islands,,Oceania,Australia and New Zealand,,,AUD
+VAT,Vatican City,Vatican City,Europe,Southern Europe,,,EUR
+HND,Honduras,Tegucigalpa,Americas,Latin America and the Caribbean,,,HNL
+HUN,Hungary,Budapest,Europe,Eastern Europe,,,HUF
+ISL,Iceland,Reykjavik,Europe,Northern Europe,,,ISK
+IND,India,New Delhi,Asia,Southern Asia,,,INR
+IDN,Indonesia,Jakarta,Asia,South-eastern Asia,,,IDR
+IRN,Iran,Tehran,Asia,Southern Asia,,,IRR
+IRQ,Iraq,Baghdad,Asia,Western Asia,,,IQD
+IRL,Ireland,Dublin,Europe,Northern Europe,,,EUR
+IMN,Isle of Man,Douglas,Europe,Northern Europe,,,GBP
+ISR,Israel,Jerusalem,Asia,Western Asia,,,ILS
+ITA,Italy,Rome,Europe,Southern Europe,,,EUR
+CIV,Côte d’Ivoire,Yamoussoukro,Africa,Sub-Saharan Africa,,,XOF
+JAM,Jamaica,Kingston,Americas,Latin America and the Caribbean,,,JMD
+JPN,Japan,Tokyo,Asia,Eastern Asia,,,JPY
+JEY,Jersey,Saint Helier,Europe,Northern Europe,,,GBP
+JOR,Jordan,Amman,Asia,Western Asia,,,JOD
+KAZ,Kazakhstan,Nur-Sultan,Asia,Central Asia,,,KZT
+KEN,Kenya,Nairobi,Africa,Sub-Saharan Africa,,,KES
+KIR,Kiribati,Tarawa,Oceania,Micronesia,,,AUD
+KWT,Kuwait,Kuwait City,Asia,Western Asia,,,KWD
+KGZ,Kyrgyzstan,Bishkek,Asia,Central Asia,,,KGS
+LAO,Laos,Vientiane,Asia,South-eastern Asia,,,LAK
+LVA,Latvia,Riga,Europe,Northern Europe,,,EUR
+LBN,Lebanon,Beirut,Asia,Western Asia,,,LBP
+LSO,Lesotho,Maseru,Africa,Sub-Saharan Africa,,,"LSL,ZAR"
+LBR,Liberia,Monrovia,Africa,Sub-Saharan Africa,,,LRD
+LBY,Libya,Tripoli,Africa,Northern Africa,,,LYD
+LIE,Liechtenstein,Vaduz,Europe,Western Europe,,,CHF
+LTU,Lithuania,Vilnius,Europe,Northern Europe,,,EUR
+LUX,Luxembourg,Luxembourg,Europe,Western Europe,,,EUR
+MDG,Madagascar,Antananarivo,Africa,Sub-Saharan Africa,,,MGA
+MWI,Malawi,Lilongwe,Africa,Sub-Saharan Africa,,,MWK
+MYS,Malaysia,Kuala Lumpur,Asia,South-eastern Asia,,,MYR
+MDV,Maldives,Male,Asia,Southern Asia,,,MVR
+MLI,Mali,Bamako,Africa,Sub-Saharan Africa,,,XOF
+MLT,Malta,Valletta,Europe,Southern Europe,,,EUR
+MHL,Marshall Islands,Majuro,Oceania,Micronesia,,,USD
+MTQ,Martinique,Fort-de-France,Americas,Latin America and the Caribbean,,,EUR
+MRT,Mauritania,Nouakchott,Africa,Sub-Saharan Africa,,,MRU
+MUS,Mauritius,Port Louis,Africa,Sub-Saharan Africa,,,MUR
+MYT,Mayotte,Mamoudzou,Africa,Sub-Saharan Africa,,,EUR
+MEX,Mexico,Mexico City,Americas,Latin America and the Caribbean,,,MXN
+FSM,Micronesia,Palikir,Oceania,Micronesia,,,USD
+MCO,Monaco,Monaco,Europe,Western Europe,,,EUR
+MNG,Mongolia,Ulaanbaatar,Asia,Eastern Asia,,,MNT
+MNE,Montenegro,Podgorica,Europe,Southern Europe,,,EUR
+MSR,Montserrat,Plymouth,Americas,Latin America and the Caribbean,,,XCD
+MAR,Morocco,Rabat,Africa,Northern Africa,,,MAD
+MOZ,Mozambique,Maputo,Africa,Sub-Saharan Africa,,,MZN
+MMR,Myanmar,Nay Pyi Taw,Asia,South-eastern Asia,,,MMK
+NAM,Namibia,Windhoek,Africa,Sub-Saharan Africa,,,"NAD,ZAR"
+NRU,Nauru,Yaren,Oceania,Micronesia,,,AUD
+NPL,Nepal,Kathmandu,Asia,Southern Asia,,,NPR
+NLD,Netherlands,Amsterdam,Europe,Western Europe,,,EUR
+NCL,New Caledonia,Noumea,Oceania,Melanesia,,,XPF
+NZL,New Zealand,Wellington,Oceania,Australia and New Zealand,,,NZD
+NIC,Nicaragua,Managua,Americas,Latin America and the Caribbean,,,NIO
+NER,Niger,Niamey,Africa,Sub-Saharan Africa,,,XOF
+NGA,Nigeria,Abuja,Africa,Sub-Saharan Africa,,,NGN
+NIU,Niue,Alofi,Oceania,Polynesia,,,NZD
+NFK,Norfolk Island,Kingston,Oceania,Australia and New Zealand,,,AUD
+MNP,Northern Mariana Islands,Saipan,Oceania,Micronesia,,,USD
+MKD,North Macedonia,Skopje,Europe,Southern Europe,,,MKD
+NOR,Norway,Oslo,Europe,Northern Europe,,,NOK
+OMN,Oman,Muscat,Asia,Western Asia,,,OMR
+PAK,Pakistan,Islamabad,Asia,Southern Asia,,,PKR
+PLW,Palau,Melekeok,Oceania,Micronesia,,,USD
+PAN,Panama,Panama City,Americas,Latin America and the Caribbean,,,"PAB,USD"
+PNG,Papua New Guinea,Port Moresby,Oceania,Melanesia,,,PGK
+PRY,Paraguay,Asuncion,Americas,Latin America and the Caribbean,,,PYG
+PER,Peru,Lima,Americas,Latin America and the Caribbean,,,PEN
+PHL,Philippines,Manila,Asia,South-eastern Asia,,,PHP
+PCN,Pitcairn,Adamstown,Oceania,Polynesia,,,NZD
+POL,Poland,Warsaw,Europe,Eastern Europe,,,PLN
+PRT,Portugal,Lisbon,Europe,Southern Europe,,,EUR
+PRI,Puerto Rico,San Juan,Americas,Latin America and the Caribbean,,,USD
+QAT,Qatar,Doha,Asia,Western Asia,,,QAR
+KOR,South Korea,Seoul,Asia,Eastern Asia,,,KRW
+MDA,Moldova,Chisinau,Europe,Eastern Europe,,,MDL
+REU,Réunion,Saint-Denis,Africa,Sub-Saharan Africa,,,EUR
+ROU,Romania,Bucharest,Europe,Eastern Europe,,,RON
+RUS,Russia,Moscow,Europe,Eastern Europe,,,RUB
+RWA,Rwanda,Kigali,Africa,Sub-Saharan Africa,,,RWF
+BLM,St. Barthélemy,Gustavia,Americas,Latin America and the Caribbean,,,EUR
+SHN,St. Helena,Jamestown,Africa,Sub-Saharan Africa,,,SHP
+KNA,St. Kitts & Nevis,Basseterre,Americas,Latin America and the Caribbean,,,XCD
+LCA,St. Lucia,Castries,Americas,Latin America and the Caribbean,,,XCD
+MAF,St. Martin,Marigot,Americas,Latin America and the Caribbean,,,EUR
+SPM,St. Pierre & Miquelon,Saint-Pierre,Americas,Northern America,,,EUR
+VCT,St. Vincent & Grenadines,Kingstown,Americas,Latin America and the Caribbean,,,XCD
+WSM,Samoa,Apia,Oceania,Polynesia,,,WST
+SMR,San Marino,San Marino,Europe,Southern Europe,,,EUR
+STP,São Tomé & Príncipe,Sao Tome,Africa,Sub-Saharan Africa,,,STN
+SAU,Saudi Arabia,Riyadh,Asia,Western Asia,,,SAR
+SEN,Senegal,Dakar,Africa,Sub-Saharan Africa,,,XOF
+SRB,Serbia,Belgrade,Europe,Southern Europe,,,RSD
+SYC,Seychelles,Victoria,Africa,Sub-Saharan Africa,,,SCR
+SLE,Sierra Leone,Freetown,Africa,Sub-Saharan Africa,,,SLE
+SGP,Singapore,Singapore,Asia,South-eastern Asia,,,SGD
+SXM,Sint Maarten,Philipsburg,Americas,Latin America and the Caribbean,,,XCG
+SVK,Slovakia,Bratislava,Europe,Eastern Europe,,,EUR
+SVN,Slovenia,Ljubljana,Europe,Southern Europe,,,EUR
+SLB,Solomon Islands,Honiara,Oceania,Melanesia,,,SBD
+SOM,Somalia,Mogadishu,Africa,Sub-Saharan Africa,,,SOS
+ZAF,South Africa,Pretoria,Africa,Sub-Saharan Africa,,,ZAR
+SGS,South Georgia & South Sandwich Islands,Grytviken,Americas,Latin America and the Caribbean,,,
+SSD,South Sudan,Juba,Africa,Sub-Saharan Africa,,,SSP
+ESP,Spain,Madrid,Europe,Southern Europe,,,EUR
+LKA,Sri Lanka,Colombo,Asia,Southern Asia,,,LKR
+PSE,Palestine,East Jerusalem,Asia,Western Asia,,,
+SDN,Sudan,Khartoum,Africa,Northern Africa,,,SDG
+SUR,Suriname,Paramaribo,Americas,Latin America and the Caribbean,,,SRD
+SJM,Svalbard & Jan Mayen,Longyearbyen,Europe,Northern Europe,,,NOK
+SWE,Sweden,Stockholm,Europe,Northern Europe,,,SEK
+CHE,Switzerland,Bern,Europe,Western Europe,,,CHF
+SYR,Syria,Damascus,Asia,Western Asia,,,SYP
+TWN,Taiwan,Taipei,Asia,Eastern Asia,,,TWD
+TJK,Tajikistan,Dushanbe,Asia,Central Asia,,,TJS
+THA,Thailand,Bangkok,Asia,South-eastern Asia,,,THB
+TLS,Timor-Leste,Dili,Asia,South-eastern Asia,,,USD
+TGO,Togo,Lome,Africa,Sub-Saharan Africa,,,XOF
+TKL,Tokelau,,Oceania,Polynesia,,,NZD
+TON,Tonga,Nuku'alofa,Oceania,Polynesia,,,TOP
+TTO,Trinidad & Tobago,Port of Spain,Americas,Latin America and the Caribbean,,,TTD
+TUN,Tunisia,Tunis,Africa,Northern Africa,,,TND
+TUR,Türkiye,Ankara,Asia,Western Asia,,,
+TKM,Turkmenistan,Ashgabat,Asia,Central Asia,,,TMT
+TCA,Turks & Caicos Islands,Cockburn Town,Americas,Latin America and the Caribbean,,,USD
+TUV,Tuvalu,Funafuti,Oceania,Polynesia,,,AUD
+UGA,Uganda,Kampala,Africa,Sub-Saharan Africa,,,UGX
+UKR,Ukraine,Kyiv,Europe,Eastern Europe,,,UAH
+ARE,United Arab Emirates,Abu Dhabi,Asia,Western Asia,,,AED
+GBR,UK,London,Europe,Northern Europe,,,GBP
+TZA,Tanzania,Dodoma,Africa,Sub-Saharan Africa,,,TZS
+UMI,U.S. Outlying Islands,,Oceania,Micronesia,,,USD
+USA,US,Washington,Americas,Northern America,,,USD
+VIR,U.S. Virgin Islands,Charlotte Amalie,Americas,Latin America and the Caribbean,,,USD
+URY,Uruguay,Montevideo,Americas,Latin America and the Caribbean,,,"UYU,UYW"
+UZB,Uzbekistan,Tashkent,Asia,Central Asia,,,UZS
+VUT,Vanuatu,Port Vila,Oceania,Melanesia,,,VUV
+VEN,Venezuela,Caracas,Americas,Latin America and the Caribbean,,,"VES,VED"
+VNM,Vietnam,Hanoi,Asia,South-eastern Asia,,,VND
+WLF,Wallis & Futuna,Mata Utu,Oceania,Polynesia,,,XPF
+ESH,Western Sahara,El-Aaiun,Africa,Northern Africa,,,MAD
+YEM,Yemen,Sanaa,Asia,Western Asia,,,YER
+ZMB,Zambia,Lusaka,Africa,Sub-Saharan Africa,,,ZMW
+ZWE,Zimbabwe,Harare,Africa,Sub-Saharan Africa,,,ZWG
